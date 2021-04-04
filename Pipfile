@@ -8,5 +8,7 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 jupyterlab = "*"
+pillow = "*"
+
 [requires]
 python_version = "3.7"
