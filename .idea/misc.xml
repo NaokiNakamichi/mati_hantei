@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (matihantei)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (mati_hantei)" project-jdk-type="Python SDK" />
+>>>>>>> 49afded2ef91f19cda38a9f8e7801067b2820043
 </project>
